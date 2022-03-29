@@ -10,13 +10,13 @@ Un site qui facilite la recherche d’emploi et l’affichage  pour les personne
             Autant qu’utilisateur je peux laisser un feedback par rapport le travail
             Autant qu’utilisateur que me  , je peux me connecter 
               Autant que personne je peux Ajouter/Modifier/Supprimer (PHP).
- ## •	Réaliser maquette Low-fidélité
- # •	Réaliser maquette High-fidélité avec prototype
- # •	User Registration 
- # •	User login 
- # •	Change password
- # •	Forget password
- # •	Page d’accueil
+  •	Réaliser maquette Low-fidélité
+  •	Réaliser maquette High-fidélité avec prototype
+  •	User Registration 
+  •	User login 
+  •	Change password
+  •	Forget password
+  •	Page d’accueil
 
  ## Prérequis :
 
