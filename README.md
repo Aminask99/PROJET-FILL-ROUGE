@@ -20,8 +20,8 @@ Un site qui facilite la recherche d’emploi et l’affichage  pour les personne
 
  ## Prérequis :
 
- # •	Acquérir toutes les compétences
- # •	Utilisez HTML et CSS et PHP et JS
- # •	Vous pouvez utiliser des Framework et des boîtes à outils CSS comme Bootstrap, Skeleton et Font Awesome.
- # •	Utilisez GitHub comme plateforme de collaboration pour le projet.
+  •	Acquérir toutes les compétences
+  •	Utilisez HTML et CSS et PHP et JS
+  •	Vous pouvez utiliser des Framework et des boîtes à outils CSS comme Bootstrap, Skeleton et Font Awesome.
+  •	Utilisez GitHub comme plateforme de collaboration pour le projet.
 
