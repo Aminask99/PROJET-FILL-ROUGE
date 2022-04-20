@@ -7,7 +7,7 @@
 
 Un site qui facilite la recherche d’emploi et l’affichage  pour les personnes à la recherche d’un emploi, ou vous pouvez entrer vos informations telles que votre nom votre âge et le travail dans lequel vous excellez
 
-   ## les  user-stories :
+## les  user-stories :
   
 *  Autant qu’utilisateur, je peux me connecter
 * Autant qu’utilisateur je peux laisser un feedback par rapport le travail
@@ -15,15 +15,15 @@ Un site qui facilite la recherche d’emploi et l’affichage  pour les personne
 * User login 
 * Change password
 * Forget password
-
-   ## L’administrateur peut gérer l’ensemble du site Web
+* 
+ ## L’administrateur peut gérer l’ensemble du site Web
 
 * Réaliser maquette Low-fidélité
 * Réaliser maquette High-fidélité avec prototype
 * Page d’accueil
 * User Registration 
 
-  ## Prérequis :
+## Prérequis :
 
 * Acquérir toutes les compétences
 * Utilisez HTML et CSS et PHP et JS
