@@ -15,7 +15,7 @@ Un site qui facilite la recherche d’emploi et l’affichage  pour les personne
 * User login 
 * Change password
 * Forget password
-* 
+
  ## L’administrateur peut gérer l’ensemble du site Web
 
 * Réaliser maquette Low-fidélité
