@@ -10,6 +10,7 @@ Un site qui facilite la recherche d’emploi et l’affichage  pour les personne
 ## les  user-stories :
   
 *  Autant que visiteur je peux voir la page d’accueils 
+
 •  Autant que utilisateur je peux m’inscrire afin d’avoir un compte sur FindJop
 •  Autant que utilisateur je peux me connecter afin de voir la page des publicités publique
 •  Autant que utilisateur, je peux chercher par catégorie et par ville dans la page publique
