@@ -10,26 +10,23 @@ Un site qui facilite la recherche d’emploi et l’affichage  pour les personne
 ## les  user-stories :
   
 *  Autant que visiteur je peux voir la page d’accueils 
+*   Autant que utilisateur je peux m’inscrire afin d’avoir un compte sur FindJop
+*   Autant que utilisateur je peux me connecter afin de voir la page des publicités publique
+*   Autant que utilisateur, je peux chercher par catégorie et par ville dans la page publique
 
-•  Autant que utilisateur je peux m’inscrire afin d’avoir un compte sur FindJop
+*   Autant que utilisateur, je peux Poster (ajouter) un travail  
 
-•  Autant que utilisateur je peux me connecter afin de voir la page des publicités publique
+*   Autant que utilisateur, je peux remplir le formulaire qui contient des informations sur travail (image, Nom, prenom, adresse, catégorie, post).
 
-•  Autant que utilisateur, je peux chercher par catégorie et par ville dans la page publique
+*   Autant que utilisateur, je peux voir les travail qui j’ai déjà poster
 
-•  Autant que utilisateur, je peux Poster (ajouter) un travail  
+*   Autant que utilisateur, je peux modifier /supprimer les travail qui j’ai déjà déclarer
 
-•  Autant que utilisateur, je peux remplir le formulaire qui contient des informations sur travail (image, Nom, prenom, adresse, catégorie, post).
+*   Autant que admin je peux connecter afin d’avoir la page Dashboard qui contient toutes les travail poster 
 
-•  Autant que utilisateur, je peux voir les travail qui j’ai déjà poster
+*   Autant que admin je peux peut chercher par catégorie () et par ville (tous les villes au Maroc) et par adresse
 
-•  Autant que utilisateur, je peux modifier /supprimer les travail qui j’ai déjà déclarer
-
-•  Autant que admin je peux connecter afin d’avoir la page Dashboard qui contient toutes les travail poster 
-
-•  Autant que admin je peux peut chercher par catégorie () et par ville (tous les villes au Maroc) et par adresse
-
-•  Autant que Admin je peux contacter les personnes qui déjà poster des travail. 
+*   Autant que Admin je peux contacter les personnes qui déjà poster des travail. 
 
 ## Prérequis :
 
